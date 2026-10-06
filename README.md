@@ -891,6 +891,8 @@ hello-gui-windows-x64.exe
 
 Запусти.
 
+<img width="945" height="886" alt="image" src="https://github.com/user-attachments/assets/e38fbd97-e9b3-43ac-87ae-983b2c58d7a5" />
+
 Должно открыться GUI-приложение.
 
 На Windows используется:
